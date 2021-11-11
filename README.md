@@ -166,3 +166,13 @@ If you find any bugs or have further questions or requests, please post an issue
 ## Acknowledgments 
 
 We thank UPMEM’s Fabrice Devaux, Rémy Cimadomo, Romaric Jodin, and Vincent Palatin for their valuable support. We acknowledge the support of SAFARI Research Group’s industrial partners, especially ASML, Facebook, Google, Huawei, Intel, Microsoft, VMware, and the Semiconductor Research Corporation. Izzat El Hajj acknowledges the support of the University Research Board of the American University of Beirut (URB-AUB-103951-25960). 
+
+## MISC
+
+### Environment Setup
+
+If you face any build related issues make sure your environment is properly setup. You can execute below command to make sure you have proper environment setup. 
+
+```shell
+source env_setup.sh
+```
